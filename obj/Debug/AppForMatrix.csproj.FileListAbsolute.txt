@@ -1,0 +1,12 @@
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\bin\Debug\AppForMatrix.exe.config
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\bin\Debug\AppForMatrix.exe
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\bin\Debug\AppForMatrix.pdb
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.csproj.AssemblyReference.cache
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.Properties.Resources.resources
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.csproj.GenerateResource.cache
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.exe
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.pdb
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.MainForm.resources
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.MatrixOutput.resources
+C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.OperationsWithMatrixForm.resources
