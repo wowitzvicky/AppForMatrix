@@ -25,8 +25,8 @@ namespace AppForMatrix
 
         private void MatrixOutput_Load(object sender, EventArgs e)
         {
-            int[,] values = Matrix.Values;
-            int n = Matrix.N;
+            var values = Matrix.Values;
+            var n = Matrix.N;
             for (var i = 0; i < n; i++)
             {
                 for (var j = 0; j < n; j++)
@@ -38,13 +38,15 @@ namespace AppForMatrix
 
         private void BtnOK_Click(object sender, EventArgs e)
         {
-            int n = Matrix.N;
+            var n = Matrix.N;
             for (var i = 0; i < n; i++)
             {
                 for (var j = 0; j < n; j++)
                 {
-                    string cell = DgOutputMatrix.Rows[i].Cells[j].Value.ToString();
-                    var val = Convert.ToInt32(cell);
+                    var cell = DgOutputMatrix.Rows[i].Cells[j];
+                    cell.Style.BackColor = Color.Brown;
+                    var value = cell.Value;
+                    var val = Convert.ToInt32(value);
                     Matrix.Values[i, j] = val;
                 }
             }

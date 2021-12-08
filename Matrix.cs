@@ -2,7 +2,7 @@
 {
     public class Matrix
     {
-        public int N
+        internal int N
         {
             set;
             get;

@@ -10,3 +10,16 @@ C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix
 C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.MainForm.resources
 C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.MatrixOutput.resources
 C:\Users\Пользователь\projects\csharp\labs\AppForMatrix\AppForMatrix\obj\Debug\AppForMatrix.OperationsWithMatrixForm.resources
+C:\Users\arsen\projects\csharp\AppForMatrix_\bin\Debug\AppForMatrix.exe.config
+C:\Users\arsen\projects\csharp\AppForMatrix_\bin\Debug\AppForMatrix.exe
+C:\Users\arsen\projects\csharp\AppForMatrix_\bin\Debug\AppForMatrix.pdb
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.csprojAssemblyReference.cache
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.MainForm.resources
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.MatrixOutput.resources
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.OperationsWithMatrixForm.resources
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.Properties.Resources.resources
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.csproj.GenerateResource.cache
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.csproj.CoreCompileInputs.cache
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.exe
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.pdb
+C:\Users\arsen\projects\csharp\AppForMatrix_\obj\Debug\AppForMatrix.DopZadForm.resources
